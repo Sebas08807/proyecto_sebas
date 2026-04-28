@@ -1,7 +1,7 @@
-Print ("Hola mundo");
+Print ("Hola mundo"); desde el ordenador 
 
-Print ("Segunda modificación")
+Print ("Segunda modificación") desde el ordenador 
 
-Print ("tercera modificación")
+Print ("tercera modificación") desde el ordenador 
 
 Print ("cuarta modificación") desde GitHub
