@@ -62,6 +62,8 @@ Problemas comunes y soluciones.
 
 Autor.
 Sebastian Rojas
+1051286178
+kevin-rojas3@upc.edu.co
 
 Fecha.
 27/04/2026
